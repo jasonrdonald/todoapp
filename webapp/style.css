@@ -1,0 +1,28 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/bulma/0.4.1/css/bulma.min.css");@import url("https://fonts.googleapis.com/css?family=Roboto");@import url("https://fonts.googleapis.com/css?family=Permanent+Marker");@import url("https://fonts.googleapis.com/css?family=Source+Code+Pro");
+form {
+  display: flex;
+  padding: 10px;
+  background-color:wheat;
+}
+
+.container {
+  min-height: 40vh;
+  display: flex;
+  justify-content: center;
+}
+
+.frame {
+  width: 40vw;
+  max-width: 1000px;
+  background-color: lightyellow;
+}
+
+.header {
+  display: inline;
+  text-align: center;
+  background-color:wheat;
+}
+.list-container {
+  overflow-y: auto;
+  background-color: lightyellow;
+}
