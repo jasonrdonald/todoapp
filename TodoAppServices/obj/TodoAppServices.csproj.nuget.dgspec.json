@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jason\\Documents\\code\\todoapp\\services\\TodoAppServices\\TodoAppServices\\TodoAppServices.csproj": {}
+    "C:\\Users\\Jason\\Documents\\GitHub\\todoapp\\TodoAppServices\\TodoAppServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jason\\Documents\\code\\todoapp\\services\\TodoAppServices\\DatabaseManager\\DatabaseManager.csproj": {
+    "C:\\Users\\Jason\\Documents\\GitHub\\todoapp\\DatabaseManager\\DatabaseManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jason\\Documents\\code\\todoapp\\services\\TodoAppServices\\DatabaseManager\\DatabaseManager.csproj",
+        "projectUniqueName": "C:\\Users\\Jason\\Documents\\GitHub\\todoapp\\DatabaseManager\\DatabaseManager.csproj",
         "projectName": "DatabaseManager",
-        "projectPath": "C:\\Users\\Jason\\Documents\\code\\todoapp\\services\\TodoAppServices\\DatabaseManager\\DatabaseManager.csproj",
+        "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\todoapp\\DatabaseManager\\DatabaseManager.csproj",
         "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jason\\Documents\\code\\todoapp\\services\\TodoAppServices\\DatabaseManager\\obj\\",
+        "outputPath": "C:\\Users\\Jason\\Documents\\GitHub\\todoapp\\DatabaseManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\Jason\\Documents\\code\\todoapp\\services\\TodoAppServices\\TodoAppServices\\TodoAppServices.csproj": {
+    "C:\\Users\\Jason\\Documents\\GitHub\\todoapp\\TodoAppServices\\TodoAppServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jason\\Documents\\code\\todoapp\\services\\TodoAppServices\\TodoAppServices\\TodoAppServices.csproj",
+        "projectUniqueName": "C:\\Users\\Jason\\Documents\\GitHub\\todoapp\\TodoAppServices\\TodoAppServices.csproj",
         "projectName": "TodoAppServices",
-        "projectPath": "C:\\Users\\Jason\\Documents\\code\\todoapp\\services\\TodoAppServices\\TodoAppServices\\TodoAppServices.csproj",
+        "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\todoapp\\TodoAppServices\\TodoAppServices.csproj",
         "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jason\\Documents\\code\\todoapp\\services\\TodoAppServices\\TodoAppServices\\obj\\",
+        "outputPath": "C:\\Users\\Jason\\Documents\\GitHub\\todoapp\\TodoAppServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -102,8 +102,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Jason\\Documents\\code\\todoapp\\services\\TodoAppServices\\DatabaseManager\\DatabaseManager.csproj": {
-                "projectPath": "C:\\Users\\Jason\\Documents\\code\\todoapp\\services\\TodoAppServices\\DatabaseManager\\DatabaseManager.csproj"
+              "C:\\Users\\Jason\\Documents\\GitHub\\todoapp\\DatabaseManager\\DatabaseManager.csproj": {
+                "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\todoapp\\DatabaseManager\\DatabaseManager.csproj"
               }
             }
           }
